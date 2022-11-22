@@ -1,8 +1,8 @@
 /stream
-source\packages
-source\bin
+/packages
+/bin
 /obj
-source/.vs
+/.vs
 *.meta
 *.dll
 *.pdb
