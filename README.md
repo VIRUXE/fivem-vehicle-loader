@@ -1,8 +1,9 @@
-# Addon Vehicle loader
+# Addon Vehicle Loader
 
 This resource finds all the vehicles by their folder name, processes the name and adds vehicle names to the game.
 
 ## Usage
+An example name for the resource folder would be `vehicle-loader`
 Folder syntax: `brand-model_name`
 Example: `apollo-intensa_emozione`
 
@@ -12,4 +13,4 @@ The server script will take care of everything. You just need to create the fold
 
 ![Folder Structure](https://user-images.githubusercontent.com/1616657/203375188-984dc3cb-1045-4be8-aa5f-273678dd3f8c.png)
 
-<sub>Download the release package. This is just the source.</sub>  
+<sub>Download the release package. This is just the source.</sub>
