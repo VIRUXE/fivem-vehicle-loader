@@ -2,6 +2,8 @@
 
 This resource finds all the vehicles by their folder name, processes the name and adds vehicle names to the game.
 
+CFX.re forum link: https://forum.cfx.re/t/addon-vehicle-loader/4954197
+
 ## Usage
 An example name for the resource folder would be `vehicle-loader`
 Folder syntax: `brand-model_name`
