@@ -1,0 +1,6 @@
+/stream
+/packages
+/.vs
+*.meta
+*.dll
+*.pdb
