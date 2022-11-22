@@ -1,5 +1,7 @@
 /stream
 /packages
+/bin
+/obj
 /.vs
 *.meta
 *.dll
