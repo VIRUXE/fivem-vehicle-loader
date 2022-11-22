@@ -1,6 +1,10 @@
 fx_version 'cerulean'
 game 'gta5'
 
+author 'VIRUXE'
+description 'This resource finds all the vehicles by their folder name, processes the name and adds vehicle names to the game.'
+repository 'https://github.com/VIRUXE/fivem-vehicle_loader/'
+
 client_script 'client.lua' -- Mainly just asks the server for the vehicle names and loads them into the game
 server_script 'Server.net.dll' -- Finds out what vehicles exist in the resource, stores and sends them to the client
 
